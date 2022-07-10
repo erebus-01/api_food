@@ -1,0 +1,168 @@
+{
+  "food": [
+    {
+      "id": 0,
+      "name": "Dairy Queen Chicken Strip Basket",
+      "restaurant": "Dairy Queen",
+      "description": "Dairy Queen does more than just Blizzards. The Chicken Strip Basket—chicken served with french fries, Texas toast, and a choice of sauce—is its signature meal.",
+      "categories": [1, 2],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/dairy-queen-launches-honey-hot-glazed-chicken-strip-basket-limited-time.jpg?itok=BN5X3BGU"
+    },
+    {
+      "id": 1,
+      "name": "Panera Soup",
+      "restaurant": "Courtesy of Panera",
+      "description": "Scan customer reviews posted on Panera's website, and you'll see that the soup is among the favorite choices of those visiting the fast-casual chain.",
+      "categories": [1, 3],
+      "ingredients": ["broccoli", "carrots", "cheese sauce"],
+      "addresses": "Cedaredge, CO 81413, American",
+      "price": 10.75,
+      "calories": 50,
+      "isFavorite": true,
+      "image": "https://topsecretrecipes.com/images/product/panera-bread-chicken-and-rice-soup-copycat-recipe.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hardee's Original Thickburger",
+      "restaurant": "Black Angus",
+      "description": "Hardee's Thickburgers are massive Black Angus beef burgers, piled with all the traditional fixings. You can order it in 1/4 pound, 1/3 pound, and 3/4 pound iterations, but the 1/3 pound Original is the most popular.",
+      "categories": [1, 2, 3],
+      "ingredients": ["bread", "cheese", "tomato", "broccoli", "beef", "red onion"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 13.50,
+      "calories": 82,
+      "isFavorite": false,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2018/02/hardees-original-thickburger-yelp.jpg?resize=640,468&quality=82&strip=all"
+    },
+    {
+      "id": 3,
+      "name": "Little Caesars Crazy Bread",
+      "restaurant": "Crazy Bread",
+      "description": "Little Caesars is best known for pizza, but coming in at a close second is Crazy Bread, its much-loved parmesan-encrusted garlic breadsticks.",
+      "categories": [2, 3],
+      "ingredients": ["Chicken", "Bread", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 17.99,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2018/07/little-caesar-hot-ready-pepperoni-pizza.jpg?resize=640,468&quality=82&strip=all"
+    },
+    {
+      "id": 4,
+      "name": "KFC Extra Crispy Chicken",
+      "restaurant": "KFC",
+      "description": "Much like the beloved original, but even more deeply fried? Of course, this is a must-try fast-food delicacy.",
+      "categories": [1, 2],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 12.75,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://canadify.com/wp-content/uploads/2018/02/KFC-Canada-Brings-Back-Extra-Crispy-Chicken-For-A-Limited-Time.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Subway Cookies",
+      "restaurant": "Perhaps ",
+      "description": "When you've chosen a healthier lunch (at least compared to the other fast-food options available), it feels perfectly valid to treat yourself to a little dessert. Perhaps that's why Subway cookies are so popular.",
+      "categories": [1, 3],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 14.99,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://i.ytimg.com/vi/tfMfkRLPXHA/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Subway Chicken & Bacon Ranch Melt",
+      "restaurant": "Love Subway",
+      "description": "According to Business Insider, the Subway Chicken Bacon Ranch Melt is one of Subway's most popular sandwiches.",
+      "categories": [2, 3],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 18.00,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/03/subway-chicken-bacon-ranch-sub.jpg?resize=640,468&quality=82&strip=all"
+    },
+    {
+      "id": 7,
+      "name": "Panera Flatbreads",
+      "restaurant": "Love Flatbreads",
+      "description": "Panera started offering flatbread pizzas during the pandemic, and they've quickly become a fan-favorite menu option.",
+      "categories": [1, 2, 3],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 17.20,
+      "calories": 78,
+      "isFavorite": true,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/10/panera-flatbread-pizza-chipotle-chicken.jpg?resize=640,468&quality=82&strip=all"
+    },
+    {
+      "id": 8,
+      "name": "Qdoba Grilled Adobo Chicken Bowl",
+      "restaurant": "Qdoba Chicken",
+      "description": "The grilled adobo chicken bowl, complete with queso, guacamole, vegetables, jalapenos, and pico de gallo, is Qdoba's most popular item.",
+      "categories": [1, 3],
+      "ingredients": ["Chicken", "French fries", "Texas toast", "signature sauce"],
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 20.50,
+      "calories": 45,
+      "isFavorite": true,
+      "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2019/03/subway-chicken-bacon-ranch-sub.jpg?resize=640,468&quality=82&strip=all"
+    }
+  ],
+  "drink": [
+    {
+      "id": 0,
+      "name": "Squid Game Frappucino",
+      "description": "Whether you’ve binged all the way through the hit Korean show or still aren’t convinced, this frapp is sure to be a winner.",
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "isFavorite": true,
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2021/10/starbucks-secret-menu-Squid-Game-Frappuccino-courtesy-holly-walker.jpg?resize=700,701"
+    },
+    {
+      "id": 1,
+      "name": "Apple Martini Refresher",
+      "description": "Fall might be the season for apples, but honestly, this Refresher is great any time of the year.",
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "isFavorite": true,
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2021/09/starbucks-apple-martini-refresher-from-the-secret-menu-courtesy-holly-walker.jpg?resize=700,700"
+    },
+    {
+      "id": 2,
+      "name": "Pumpkin Pie Frappuccino",
+      "description": "This one starts off with a Venti Pumpkin Cream Cold Brew with no vanilla. Then ask for three pumps of white mocha, two pumps of cinnamon dolce, and one pump of chai, and top it off with cinnamon powder on top of the foam.",
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "isFavorite": true,
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2021/08/starbucks-pumpkin-butter-cold-brew-via-totallythebomb.com-square.jpg?resize=700,700"
+    },
+    {
+      "id": 3,
+      "name": "Wendy’s Inspired Frosty Frappuccino",
+      "description": "This drink combines chocolate and caffeine in the best way. Order a Grande Mocha Frappuccino, and ask for it to be made with heavy whipping cream. Add two pumps of vanilla syrup and mocha drizzle, and voila! You’ve got a Frosty with a kick.",
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "isFavorite": true,
+      "image": "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/dairy-queen-launches-honey-hot-glazed-chicken-strip-basket-limited-time.jpg?itok=BN5X3BGU"
+    },
+    {
+      "id": 4,
+      "name": "Luna Lovegood Refresher",
+      "description": "Banish the Nargles with this Refresher that’s as quirky as Luna! Order a Venti Mango Dragonfruit Lemonade, then ask for light kiwi base and light strawberry puree.",
+      "addresses": "Cedaredge, CO 81413, Hoa Kỳ",
+      "price": 15.00,
+      "isFavorite": true,
+      "image": "https://www.tasteofhome.com/wp-content/uploads/2021/08/luna-lovegood-refresher-QT-slideshow.jpg?resize=700,699"
+    }
+  ]
+}
